@@ -55,5 +55,4 @@ def displayCal():
 displayCal()
 
 
-
 # Typing `python 14_cal.py 12 2019` returns calendar for december of 2019 and so on.
